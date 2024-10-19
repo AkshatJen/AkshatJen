@@ -108,5 +108,5 @@ I enjoy learning 📚 and growing 🌱 every day. Open to collaborating 👯 on 
 
 - In my spare time, I like to cook 🍲, play music 🎸 and practise climbing 🧗 and callisthenics 🤸🏼
 - :zap: Keen interest in science and philosophy.
-- :earth_africa: Sharing my knowledge through [blogs](https://medium.com/@akshatjen) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](#)
-- 📫 Reach me [at](mailto:akshatjen@gmail.com) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
+- :earth_africa: Sharing my knowledge through [blogs](https://medium.com/@akshatjen) 
+- 📫 Reach me [at](mailto:akshatjen@gmail.com)
