@@ -105,12 +105,13 @@ I enjoy reading, learning and growing every day. In my spare time, I like to coo
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](#)
 
 
+<h2><strong>About Me</strong></h2>
 
-- :zap: I have a keen interest in science, philosophy and music.
+
+- :zap: I have a keen interest in science and philosophy.
 - :earth_africa: I share a little bit of my knowledge with the world through my [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](#)
  [blogs](https://medium.com/@akshatjen)
 - 👯 I’m open to collaborating on open-source projects and discuss your ideas
 - 📫 You can reach me [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
  [at](mailto:akshatjen@gmail.com)
-- 🌱 I’m addicted to learning and growing every day
-<!-- - ⚡ Fun fact: I've recently started running 🏃🏼(my best: 5kms under 23minutes) and solving Rubiks Cube (my best: under a minute)-->
+- 🌱 I’m addicted to learning every day
