@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 I'm a Full-Stack Engineer | Software Engineer based in Ireland 🇮🇪 
 
-I enjoy solving problems and have a big appetite for continually learning and growing. In my spare time I like to read 📝, cook 🍲, play guitar 🎸 and workout 🤸🏼
+I enjoy reading, learning and growing every day. In my spare time, I like to cook 🍲, play music 🎸 and practise climbing 🧗 and callisthenics 🤸🏼
 
 
-<h4><strong>Languages</strong></h4>
+<h3><strong>Languages I speak</strong></h3>
 
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
@@ -40,7 +40,9 @@ I enjoy solving problems and have a big appetite for continually learning and gr
 
 
 
-<h4><strong>Frameworks & Tools</strong></h4>
+<h3><strong>Tools I use</strong></h3>
+
+<h4><strong>Framework</strong></h4>
 
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
