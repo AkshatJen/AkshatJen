@@ -110,5 +110,4 @@ I enjoy reading, learning and growing 🌱 every day. In my spare time, I like t
 - :earth_africa: I share a little bit of my knowledge with the world through my [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](#)
  [blogs](https://medium.com/@akshatjen)
 - 👯 I’m open to collaborating on open-source projects and discuss your ideas
-- 📫 You can reach me [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
- [at](mailto:akshatjen@gmail.com)
+- 📫 You can reach me [at](mailto:akshatjen@gmail.com) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
