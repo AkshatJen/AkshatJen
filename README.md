@@ -107,6 +107,6 @@ I'm a Full-Stack Engineer | Software Engineer based in Ireland 🇮🇪
 I enjoy learning 📚 and growing 🌱 every day. Open to collaborating 👯 on open-source projects and discussing ideas 💡
 
 - 🧘🏽‍♂️ In my spare time, I like to cook 🍲, play music 🎸, climb 🧗 and practise callisthenics 🤸🏼
-- :zap: Keen interest in science and philosophy.
+- :zap: Keen interest in science and philosophy
 - :earth_africa: Sharing my knowledge through [blogs](https://medium.com/@akshatjen) 
 - 📫 Reach me on [email](mailto:akshatjen@gmail.com)
