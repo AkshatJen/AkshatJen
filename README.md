@@ -120,6 +120,7 @@ I enjoy solving problems and have a big appetite for continually learning and gr
 - :earth_africa: I share a little bit of my knowledge with the world through my [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](#)
  [blogs](https://medium.com/@akshatjen)
 - 👯 I’m open to collaborating on open-source projects and discuss your ideas
-- 📫 You can reach me [at](mailto:akshatjen@gmail.com)
+- 📫 You can reach me [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
+ [at](mailto:akshatjen@gmail.com)
 - 🌱 I’m addicted to learning and growing every day
 <!-- - ⚡ Fun fact: I've recently started running 🏃🏼(my best: 5kms under 23minutes) and solving Rubiks Cube (my best: under a minute)-->
