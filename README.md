@@ -2,11 +2,8 @@
 
 I'm a Full-Stack Engineer | Software Engineer based in Ireland 🇮🇪 
 
-I enjoy reading, learning and growing every day. In my spare time, I like to cook 🍲, play music 🎸 and practise climbing 🧗 and callisthenics 🤸🏼
-
 
 <h3><strong>Languages</strong></h3>
-
 
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
@@ -107,6 +104,7 @@ I enjoy reading, learning and growing every day. In my spare time, I like to coo
 
 <h2><strong>About Me</strong></h2>
 
+I enjoy reading, learning and growing 🌱 every day. In my spare time, I like to cook 🍲, play music 🎸 and practise climbing 🧗 and callisthenics 🤸🏼
 
 - :zap: I have a keen interest in science and philosophy.
 - :earth_africa: I share a little bit of my knowledge with the world through my [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](#)
@@ -114,4 +112,3 @@ I enjoy reading, learning and growing every day. In my spare time, I like to coo
 - 👯 I’m open to collaborating on open-source projects and discuss your ideas
 - 📫 You can reach me [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
  [at](mailto:akshatjen@gmail.com)
-- 🌱 I’m addicted to learning every day
