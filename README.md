@@ -104,9 +104,9 @@ I'm a Full-Stack Engineer | Software Engineer based in Ireland 🇮🇪
 
 <h2><strong>About Me</strong></h2>
 
-I enjoy reading, learning and growing 🌱 every day. In my spare time, I like to cook 🍲, play music 🎸 and practise climbing 🧗 and callisthenics 🤸🏼
+I enjoy learning 📚 and growing 🌱 every day. In my spare time, I like to cook 🍲, play music 🎸 and practise climbing 🧗 and callisthenics 🤸🏼
 
 - :zap: I have a keen interest in science and philosophy.
-- :earth_africa: I share a little bit of my knowledge with the world through my [blogs](https://medium.com/@akshatjen) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](#)
-- 👯 I’m open to collaborating on open-source projects and discuss your ideas
+- :earth_africa: I share a little bit of my knowledge of the world through my [blogs](https://medium.com/@akshatjen) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](#)
+- 👯 I’m open to collaborating on open-source projects and discussing ideas
 - 📫 You can reach me [at](mailto:akshatjen@gmail.com) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
